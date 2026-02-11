@@ -68,14 +68,4 @@ Me chamo Danilo Machado, tenho 20 anos e sou natural de Araraquara. Atualmente, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
-
-<br/>
-<br/>
-
- 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
